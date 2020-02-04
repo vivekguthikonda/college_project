@@ -1,0 +1,24 @@
+Grey Leaf Spot of Maize
+Common Rust of Maize
+Northern Leaf Blight of Maize
+2
+0
+0
+0
+2
+Citrus Greening Disease
+1
+2
+Early Blight of Potato
+Potato Late Blight
+2
+1
+Early Blight of Tomato
+Tomato Late Blight
+Leaf Mold of Tomato
+Septoria Leaf Spot
+Spider Mites
+0
+Tomato Yellow Leaf Curl Virus
+0
+2

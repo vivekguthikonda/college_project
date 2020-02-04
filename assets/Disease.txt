@@ -1,0 +1,39 @@
+corn maize cercospora leaf spot gray leaf spot
+corn maize common rust 
+corn maize northern leaf blight
+corn maize healthy
+grape black rot
+grape esca black measles 
+grape leaf blight isariopsis leaf spot 
+grape healthy
+orange haunglongbing citrus greening 
+pepper bell bacterial spot
+pepper bell healthy
+potato early blight
+potato late blight
+potato healthy
+tomato bacterial spot
+tomato early blight
+tomato late blight
+tomato leaf mold
+tomato septoria leaf spot
+tomato spider mites two spotted spider mite
+tomato target spot
+tomato tomato yellow leaf curl virus
+tomato tomato mosaic virus
+tomato healthy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
