@@ -4,6 +4,7 @@ This app recognizes diseases when plant leaf image is shown by camera or from ga
 
 ## App-preview
 
+![](app.gif)
 
 ## Prerequisites
 
