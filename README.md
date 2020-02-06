@@ -10,7 +10,7 @@ This app recognizes diseases when plant leaf image is shown by camera or from ga
 
 - Flutter package in Android Studio.
 - mobilenet 224dim tflite for transfer learning.
-- Have to extract to assets/images.zip to get images because github cant host many files.
+- Have to extract to assets/images.zip.001 & _.002 to images/ to get images because github cant host many files.
 
 
 ## Install 
